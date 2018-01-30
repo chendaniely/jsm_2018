@@ -1,3 +1,5 @@
+**Running an undergraduate research summer program with reprodicible results**
+
 Each summer, the Social and Decision Analytics Laboratory (SDAL) runs an immersive research course called Data Science for Public Good (DSPG).
 In this program, undergraduate data scientists work on projects from local community stakeholders,
 such as fire and police departments,
@@ -12,9 +14,9 @@ such as git infrastructure, the structure of our technical courses, and training
 Our goal is to provide a framework to others who wish to implement similar programs in the future.
 
 
-Note to finish this: what exactly are the challenges, what exactly did they learn, and what exactly are the solutions we feel are worth communicating. 
-
 <hr>
+
+Note to finish this: what exactly are the challenges, what exactly did they learn, and what exactly are the solutions we feel are worth communicating. 
 
 Running an undergraduate research summer program with reprodicible results
 
