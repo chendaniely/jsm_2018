@@ -1,0 +1,19 @@
+Running an undergraduate research summer program with reprodicible results
+
+what are the challenges we face?
+
+- shared code bases
+- multiple people working on the same project
+- influx of students contributing and then leaving
+- finding and reproducing results
+
+We run a Data Science for Public Good (DSPG) immersive summer research experience course where students can gain research credit similar to an internship.
+Unlike typical university courses, these students and fellows meet regularly with project sponsors for their analytic needs.
+These projects either set the grounds for continuing research or (TODO: address a specific research question).
+The challenges we face is dealing with an influx of contributors to a shared code base, and many times, reproducing results and figures for academic scholarship after the program.
+(TODO: This talk is about) how we address these problems (git, project templates, encrypted volumnes, docker), the lessons learned from previous years,
+and improvements to future years.
+The benefit of doing so, means we have a set of "best" practices in the lab that we teach to students.
+The students are not only learning (TODO: "statistics education"), tools, data wrangling and munging, exploratora data analysis, data visualization, and communication,
+but also how all those pieces factor into a practical workflow focused on reproducibility, replicability, and data provenience
+that has direct impacts in working in research laboratories and industry jobs.
