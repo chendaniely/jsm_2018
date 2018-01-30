@@ -1,7 +1,7 @@
 Each summer, the Social and Decision Analytics Laboratory (SDAL) runs an immersive research course called Data Science for Public Good (DSPG).
 In this program, undergraduate data scientists work on projects from local community stakeholders,
 such as fire and police departments,
-to use large unstructured data to solve civic problems.
+to use large unstructured data to address civic problems.
 In so doing, the students learn practical techniques such as
 data wrangling and munging, exploratory data analysis, data visualization, and communication of results.
 Running such a program has many challenges.
